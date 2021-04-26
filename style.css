@@ -1,3 +1,7 @@
-body {
-    background: blue;
+h1 {
+    font-size: 4em;
+}
+
+.header {
+    color: purple;
 }
