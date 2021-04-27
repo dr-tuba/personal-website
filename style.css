@@ -10,18 +10,24 @@ img {
     margin-right: auto;
 }
 
+.header {
+    padding: 10px 16px;
+    background: #555;
+    color: #f1f1f1;
+}
+  
+.content {
+    padding: 16px;
+}
+  
 .sticky {
     position: fixed;
     top: 0;
     width: 100%;
 }
-
-.welcome {
-    display: block;
-    background-color: rgb(170, 131, 199);
-    margin-bottom: .2em;
-    padding-top: 1em;
-    padding-bottom: 1em;
+  
+.sticky + .content {
+    padding-top: 102px;
 }
 
 .intro {
@@ -68,4 +74,12 @@ img {
     background-color: #222;
     color: white;
     text-align: center;
+}
+
+.top-container {
+    background-image: url(images/aspen-tuba.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 2px dashed #333;
 }
