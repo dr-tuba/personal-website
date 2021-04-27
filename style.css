@@ -10,6 +10,12 @@ img {
     margin-right: auto;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
 .welcome {
     display: block;
     background-color: rgb(170, 131, 199);
@@ -36,6 +42,7 @@ img {
 }
 
 .music-block {
+    display: block;
     background-color: whitesmoke;
     margin-left: 20%;
     margin-right: 20%;
