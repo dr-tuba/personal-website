@@ -19,14 +19,14 @@ img {
     margin-right: 10%;
 }
 
-.heading {
+.intro {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: .2em;
     margin-bottom: .2em;
 }
 
-.subhead {
+.intro2 {
     text-align: center;
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: large;
