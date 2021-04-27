@@ -12,7 +12,7 @@ img {
 
 .welcome {
     display: block;
-    background-color: rgb(194, 168, 214);
+    background-color: rgb(170, 131, 199);
     margin-bottom: .2em;
     padding-top: 1em;
     padding-bottom: 1em;
@@ -54,7 +54,7 @@ img {
     --font-size: 1em;
     padding-top: var(--gutter-top);
     padding-bottom: 2em;
-    border-top: .8em solid purple;
+    border-top: .8em solid rgb(0, 0, 0);
 }
 
 .dark-theme {
