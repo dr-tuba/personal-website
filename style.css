@@ -82,4 +82,5 @@ img {
     background-position: center;
     background-size: cover;
     border: 2px dashed #333;
+    height: 800px;
 }
