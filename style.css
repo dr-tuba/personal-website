@@ -6,11 +6,20 @@ h2 {
   text-align: center;
 }
 
-.container img{
-  width: 100%;
-  height: 100%;
+.section {
+  padding-top: 2em;
+  padding-bottom: 1em;
+  background-color: grey;
+  margin-top: 3em;
+  margin-bottom: 3em;
 }
 
-#intro {
-  text-align: center;
+.container iframe {
+  margin: 0 auto;
+  background-color: #777;
+}
+
+iframe {
+  display: block;
+  border-style: none;
 }
