@@ -35,7 +35,6 @@ p {
 .section {
   padding-top: 2em;
   padding-bottom: 1em;
-  background-color: grey;
   margin-top: 3em;
   margin-bottom: 3em;
 }
@@ -70,4 +69,9 @@ p {
 iframe {
   display: block;
   border-style: none;
+}
+
+section {
+  display: flex;
+  align-items: center;
 }
