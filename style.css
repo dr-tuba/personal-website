@@ -11,6 +11,10 @@ p {
   padding-right: 1em;
 }
 
+.nav-link:hover {
+  text-decoration: underline;
+}
+
 .full-width-image {
   width: 100vw;
   position: relative;
