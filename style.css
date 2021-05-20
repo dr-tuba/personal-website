@@ -1,6 +1,8 @@
 .jumbotron {
   background: url("images/aspen-tuba.jpeg");
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
   height:1000px;
 }
 
