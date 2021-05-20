@@ -10,7 +10,7 @@
   font-family: 'Inconsolata', monospace;
 }
 
-p {
+section p {
   padding-left: 1em;
   padding-right: 1em;
 }
@@ -72,4 +72,10 @@ iframe {
 section {
   display: flex;
   align-items: center;
+}
+
+.about-img {
+  object-fit: scale-down;
+  height: 300px;
+  width: 300px;
 }
