@@ -1,5 +1,11 @@
 .jumbotron {
-  text-align: center;
+  background: url("images/aspen-tuba.jpeg");
+  background-size: cover;
+  height:1000px;
+}
+
+.dl-text {
+  font-family: 'Inconsolata', monospace;
 }
 
 h2 {
