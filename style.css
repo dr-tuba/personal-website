@@ -3,18 +3,22 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height:1000px;
+  height: 80vw;
 }
 
 .dl-text {
   font-family: 'Inconsolata', monospace;
 }
 
+.jumbotron .dl-text {
+  text-align: left;
+}
+
 section p {
   padding-left: 1em;
   padding-right: 1em;
+  text-align: center;
 }
-
 .nav-link:hover {
   text-decoration: underline;
 }
@@ -79,3 +83,8 @@ section {
   height: 300px;
   width: 300px;
 }
+
+/* .container {
+  display: flex;
+  align-items: center;
+} */
