@@ -20,11 +20,14 @@ body {
 }
 
 .heading h1 {
-  font-size: 6vw;
+  display: grid;
+  font-size: 8vw;
+  font-weight: bold;
 }
 
 .heading p {
-  font-size: 3vw;
+  font-size: 4vw;
+  line-height: 1.25;
 }
 
 section p {
