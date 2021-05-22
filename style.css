@@ -3,6 +3,14 @@ body {
   padding: 0;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .jumbotron {
   background: url("images/aspen-tuba.jpeg");
   background-size: cover;
