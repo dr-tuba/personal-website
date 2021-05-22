@@ -1,3 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .jumbotron {
   background: url("images/aspen-tuba.jpeg");
   background-size: cover;
@@ -10,8 +15,16 @@
   font-family: 'Inconsolata', monospace;
 }
 
-.jumbotron .dl-text {
-  text-align: left;
+.heading {
+  font-family: 'Roboto', sans-serif;
+}
+
+.heading h1 {
+  font-size: 6vw;
+}
+
+.heading p {
+  font-size: 3vw;
 }
 
 section p {
@@ -83,8 +96,3 @@ section {
   height: 300px;
   width: 300px;
 }
-
-/* .container {
-  display: flex;
-  align-items: center;
-} */
